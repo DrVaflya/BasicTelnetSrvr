@@ -1,0 +1,15 @@
+C:\Users\intelcore\source\repos\TCPSrvr\bin\Release\net6.0\TCPSrvr.exe
+C:\Users\intelcore\source\repos\TCPSrvr\bin\Release\net6.0\TCPSrvr.deps.json
+C:\Users\intelcore\source\repos\TCPSrvr\bin\Release\net6.0\TCPSrvr.runtimeconfig.json
+C:\Users\intelcore\source\repos\TCPSrvr\bin\Release\net6.0\TCPSrvr.dll
+C:\Users\intelcore\source\repos\TCPSrvr\bin\Release\net6.0\TCPSrvr.pdb
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.csproj.AssemblyReference.cache
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.AssemblyInfoInputs.cache
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.AssemblyInfo.cs
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.csproj.CoreCompileInputs.cache
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.dll
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\refint\TCPSrvr.dll
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.pdb
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\TCPSrvr.genruntimeconfig.cache
+C:\Users\intelcore\source\repos\TCPSrvr\obj\Release\net6.0\ref\TCPSrvr.dll
